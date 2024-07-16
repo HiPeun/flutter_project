@@ -1,0 +1,3 @@
+[submodule "Desktop/flutter_repo/diary"]
+	path = Desktop/flutter_repo/diary
+	url = https://github.com/HiPeun/diary.git
